@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/visruthsk/visruthsk.r-universe.dev
 	branch = HEAD
+[submodule "bootstrapper"]
+	path = bootstrapper
+	url = https://github.com/VisruthSK/bootstrapper
 [submodule "voucher"]
 	path = voucher
-	url = https://github.com/visruthsk/voucher
+	url = https://github.com/VisruthSK/voucher
