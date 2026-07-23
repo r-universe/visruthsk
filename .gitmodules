@@ -2,9 +2,15 @@
 	path = .registry
 	url = https://github.com/visruthsk/visruthsk.r-universe.dev
 	branch = HEAD
+[submodule "ascribe"]
+	path = ascribe
+	url = https://github.com/VisruthSK/ascribe
 [submodule "bootstrapper"]
 	path = bootstrapper
 	url = https://github.com/VisruthSK/bootstrapper
+[submodule "stanflow"]
+	path = stanflow
+	url = https://github.com/VisruthSK/stanflow
 [submodule "voucher"]
 	path = voucher
 	url = https://github.com/VisruthSK/voucher
