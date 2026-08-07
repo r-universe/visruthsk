@@ -8,6 +8,9 @@
 [submodule "bootstrapper"]
 	path = bootstrapper
 	url = https://github.com/VisruthSK/bootstrapper
+[submodule "brand"]
+	path = brand
+	url = https://github.com/VisruthSK/brand
 [submodule "stanflow"]
 	path = stanflow
 	url = https://github.com/VisruthSK/stanflow
